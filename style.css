@@ -4,3 +4,43 @@ body{
  font-family:"Roboto", sans-serif;
  margin:0px;
 }
+header {
+    font-size: 40px;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 15px;
+} 
+section{
+    background-color:rgb(156, 92, 140);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    max-width: 5%; 
+}
+img{
+    opacity: 0,5;
+    height: 100px;
+}
+
+.categoria-videos img:hover
+
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+section{
+    padding-left: 20px;
+    padding-right: 20px;
+}
